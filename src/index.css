@@ -1,6 +1,6 @@
 :root {
   --bg-color: #000000;
-  --primary-color: #0d0d0d;
+  --primary-color: #000000;
   --secondary-color: linear-gradient(
     to right top,
     #9b4877a4,
@@ -24,12 +24,12 @@
 
 [data-theme="light"] {
   --bg-color: #ffffff;
-  --primary-color: #ffffff;
+  --primary-color: #aeaeae;
   --secondary-color: #000;
-  --text-color: #000;
+  --text-color: #000000;
   --text-color-2: #000;
-  --text-color-3: rgb(204, 0, 0);
-  --overlay-color: rgb(255 255 255 / 70%);
+  --text-color-3: rgb(0, 0, 0);
+  --overlay-color: rgba(0, 0, 0, 0.7);
 }
 
 html,
