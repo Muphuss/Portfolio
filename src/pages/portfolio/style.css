@@ -83,3 +83,31 @@
 .po_item .content a:hover {
   text-decoration: none;
 }
+
+@media (max-width: 414px) {
+  .po_item:hover .content {
+    width: 98%;
+    height: 98%;
+  }
+}
+
+@media (max-width: 430px) {
+  .po_item:hover .content {
+    width: 98%;
+    height: 98%;
+  }
+}
+
+@media (max-width: 414px) {
+  .po_item img {
+    width: 100%;
+    height: 98%;
+  }
+}
+
+@media (max-width: 430px) {
+  .po_item img {
+    width: 100%;
+    height: 98%;
+  }
+}

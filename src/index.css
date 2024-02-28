@@ -3,18 +3,18 @@
   --primary-color: #0d0d0d;
   --secondary-color: linear-gradient(
     to right top,
-    #9b4877,
-    #9d5991,
-    #9b6ca9,
+    #9b4877a4,
+    #9d5991a8,
+    #85a96c,
     #977ebf,
     #9090d2,
     #84a0e2,
     #77b0ef,
-    #69bff8,
+    #69f872,
     #52cffe,
-    #41dfff,
-    #46eefa,
-    #5ffbf1
+    #22acc8,
+    #46eefaab,
+    #5ffbf18e
   );
   --text-color: #fff;
   --text-color-2: #fff;
