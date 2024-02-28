@@ -265,13 +265,12 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "muphus.mngmnt@gmail.com",
-    YOUR_FONE: "###",
-    description: "If you want to send me Your Demo for collab please do this to my Mail :) ↑ ",
+    description: "If you want to send me Your Demo for collab please do this to my Mail :) ↑ or with the form below (it's not working properly) ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_o1ccll3",
+    YOUR_TEMPLATE_ID: "template_w472izi",
+    YOUR_USER_ID: "UpXoIdG4WFouTlvzh",
 };
 
 const socialprofils = {
