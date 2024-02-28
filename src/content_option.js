@@ -7,17 +7,17 @@ const meta = {
 const introdata = {
     title: " Hey I’m Marvin Aka. MUPHUS",
     animated: {
-        first: "I love Producing Music",
-        second: "I Do my Sound Design",
-        third: "I can remix Your Music",
+        first: "1.000.000.0+ Streams Worldwide",
+        second: "140+ Countries",
+        third: "Released on many Labels",
     },
     description: "Hey! Nice to meet you, hope you have fun visiting my Portfolio ↓ ",
     your_img_url: "https://images.unsplash.com/photo-1534330207526-8e81f10ec6fc?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
-    title: "a bit about my self",
-    aboutme: "Passionate Producer, started when i was 13 years old with the Drums but then decided that it's too Boring to only play drums and no Notes. So I Decided to Start learning to play the Keys",
+    title: "A bit about me",
+    aboutme: "Passionate Producer, started when i was 13 years old with the Drums but then decided that it's too Boring to only play drums and no Notes. So I Decided to Start learning to play the Keys, then I felt like when i'm playing the keys there are missing some more elements, so I decided to get my first DAW (Magix studio). it didn't took long till I realised I need to switch, so i got my first Fl studio( Flstudio 12) and since there I'm producing music with fl Studio.",
 };
 const worktimeline = [{
         jobtitle: "Swutch Music",
@@ -70,6 +70,11 @@ const worktimeline = [{
         date: "1 Release",
     },
     {
+        jobtitle: "Smashing Records",
+        where: "Label",
+        date: "1 Release",
+    },
+    {
         jobtitle: "HitmusicGroup",
         where: "Label",
         date: "1 Release",
@@ -104,6 +109,32 @@ const worktimeline = [{
     where: "Artist",
     date: "4+ Collabs",
 },
+{
+    jobtitle: "Dyllan",
+    where: "Singer",
+    date: "1 Collab",
+},
+{
+    jobtitle: "BASTL",
+    where: "Artist",
+    date: "2 Collabs",
+},
+{
+    jobtitle: "FVTM",
+    where: "Artist",
+    date: "1 Collab",
+},
+{
+    jobtitle: "Gash",
+    where: "Artist",
+    date: "1 Collab",
+},
+{
+    jobtitle: "Gash",
+    where: "Artist",
+    date: "1 Collab",
+},
+
 ];
 
 const skills = [{
@@ -156,7 +187,7 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://i.scdn.co/image/ab67616d00001e02e96e9a2d1af780bf29eeb2b0",
-        description: "Collab together with WhiteCapMusic Feat. Buamz, Released on SOAVE Records.",
+        description: "Triplet Dance/psy Collab together with WhiteCapMusic Feat. Buamz, Released on SOAVE Records.",
         link: "https://open.spotify.com/intl-de/track/5brxwSXBOeE9DlyBy9PIuQ?si=dc1a273b58004af4",
     },
     {
@@ -166,7 +197,7 @@ const dataportfolio = [{
     },
     {
         img: "https://i.scdn.co/image/ab67616d00001e02abf7a4b5bc05013100531eb4",
-        description: "Cover of the Popular Rock song Iris, Released on HighFiveMusic",
+        description: "Slap Bounce Cover of the Popular Rock song Iris, Released on HighFiveMusic",
         link: "https://open.spotify.com/intl-de/track/63GVWi6kSsHgolSLqxp2tV?si=674e1c52a0fd40a0",
     },
     {
@@ -234,7 +265,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "muphus.mngmnt@gmail.com",
-    YOUR_FONE: "000-000-000",
+    YOUR_FONE: "###",
     description: "If you want to send me Your Demo for collab please do this to my Mail :) ↑ ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
