@@ -30,10 +30,13 @@ export const Home = () => {
                         introdata.animated.first,
                         introdata.animated.second,
                         introdata.animated.third,
+                        introdata.animated.fourth,
                       ],
                       autoStart: true,
                       loop: true,
-                      deleteSpeed: 10,
+                      deleteSpeed: 13,
+                      delay: 88,
+                      
                     }}
                   />
                 </h1>
@@ -48,7 +51,7 @@ export const Home = () => {
                     </div>
                   </Link>
                   <Link to="/contact">
-                    <div id="button_h" className="ac_btn btn">
+                    <div id="button_h" className="ac_btn btn"> 
                       Contact Me
                       <div className="ring one"></div>
                       <div className="ring two"></div>
@@ -59,13 +62,13 @@ export const Home = () => {
                 <div className="spotify-profile">
                 <iframe
     title="Spotify Profile"
-    style={{ borderRadius: "12px" }}
+    style={{ borderRadius: "19px" }}
     src="https://open.spotify.com/embed/artist/6u1e1yxbcOzQ96mQl2L6ta?utm_source=generator&theme=0"
     width="100%"
     height="420"
     allowFullScreen
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-    loading="lazy"
+    loading="fast"
 ></iframe>
 
                 </div>

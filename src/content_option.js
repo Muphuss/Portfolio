@@ -10,6 +10,7 @@ const introdata = {
         first: "1.000.000.0+ Streams Worldwide",
         second: "140+ Countries",
         third: "Released on many Labels",
+        fourth: "Getting one of  the Best Producers",
     },
     description: "Hey! Nice to meet you, hope you have fun visiting my Portfolio ↓ ",
     your_img_url: "https://images.unsplash.com/photo-1534330207526-8e81f10ec6fc?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -17,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about me",
-    aboutme: "Passionate Producer, started when i was 13 years old with the Drums but then decided that it's too Boring to only play drums and no Notes. So I Decided to Start learning to play the Keys, then I felt like when i'm playing the keys there are missing some more elements, so I decided to get my first DAW (Magix studio). it didn't took long till I realised I need to switch, so i got my first Fl studio( Flstudio 12) and since there I'm producing music with fl Studio.",
+    aboutme: "Passionate Producer, started when i was 13 years old with the Drums but then decided that it's too Boring to only play drums and no Notes. So I Decided to Start learning to play the Keys, then I felt like when i'm playing the keys there are missing some more elements, so I decided to get my first DAW (Magix studio). it didn't took long till I realised I need to switch, so i got my first Fl studio( Flstudio 12) and since there I'm producing music with fl Studio.  Currently I mostly produce House/techno and always looking for other producer to work with on some cool",
 };
 const worktimeline = [{
         jobtitle: "Swutch Music",
@@ -154,6 +155,10 @@ const skills = [{
         value: 85,
     },
     {
+        name: "Songwriting",
+        value: 45,
+    },
+    {
         name: "Ghost Production",
         value: 90,
     },
@@ -166,14 +171,14 @@ const skills = [{
         value: 70,
     },
     {
-        name: "Ghost Production",
-        value: 90,
+        name: "singing",
+        value: -90,
     },
 ];
 
 const services = [{
         title: "Ghost Production",
-        description: "Providing the Best Ghostproduction Quality, Ready to Release on a label",
+        description: "Providing the Best Ghostproduction Quality, Ready to Release on a label(if you're Interested please message me)",
     },
     {
         title: "Remixing",
@@ -181,7 +186,7 @@ const services = [{
     },
     {
         title: "Sound Design",
-        description: "Creating new Sounds for me (in Serum) is Fun",
+        description: "Creating new Sounds or rebuilding Sounds makes a lot of fun.",
     },
 ];
 
@@ -258,14 +263,14 @@ const dataportfolio = [{
     },
     {
         img: "https://i.scdn.co/image/ab67616d00001e02d20bed2553fa8c6e9f77f814",
-        description: "My Special Song for my sister i made for her Birthday.",
+        description: "My Special stutter House Song for my sister i made for her Birthday.",
         link: "https://open.spotify.com/intl-de/track/4YKX9oIa1weheAZGGH94Gf?si=9dfc3695cfee465f",
     },
 ];
-
+ 
 const contactConfig = {
     YOUR_EMAIL: "muphus.mngmnt@gmail.com",
-    description: "If you want to send me Your Demo for collab please do this to my Mail :) ↑ or with the form below (it's not working properly) ",
+    description: "If you want to send me Your Demo for collab please do this to my Mail :) ↑ or with the form below.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_o1ccll3",
@@ -291,3 +296,4 @@ export {
     socialprofils,
     logotext,
 };
+
